@@ -4,12 +4,12 @@ Chatting Platform Utilizing Gesture Based Emoji Detection
 
 ## Abstract
 
-Every aspect of human life is slowly getting computerized and gradually turning electronic. This has made a range
+Every aspect of human life is slowly getting computerized and gradually turning electronic. This has made a range
 of tasks a lot easier and accessible for people from all walks
 of life. Unfortunately, this rapid computerization and the ever
 changing landscape of electronics has given birth to a new class
 of computer - illiterate individuals. Such individuals exist due to
-the lack of accessibility to latest electronic gadgets, or humansocial problems like old age. There is a need to make technology
+the lack of accessibility to latest electronic gadgets, or human-social problems like old age. There is a need to make technology
 fun and easier to use for individuals belonging to such classes.
 The very primary use of internet-based networking is text-based
 communications namely: e-mails, texts chats, blogs, etc. The text
@@ -37,15 +37,16 @@ managing short term memory load.
 
 ## Acknowledgements
 
+
+ - Dr. P Swarnalatha for Guidance
  - [DurgeshKr for Idea](https://github.com/DurgeshKr2242/Emoji-Detector)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ 
 
 
 ## Authors
 
 - [@sankystuff](https://github.com/SankyStuff)
-- [@madhav](https://github.com/SankyStuff)
+- [@adnanalam931](https://github.com/adnanalam931)
 
 
 
