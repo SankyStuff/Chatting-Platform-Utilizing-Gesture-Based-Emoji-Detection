@@ -45,8 +45,8 @@ managing short term memory load.
 
 ## Authors
 
-- [@sankystuff](https://github.com/SankyStuff)
-- [@adnanalam931](https://github.com/adnanalam931)
+- [@sankystuff](https://github.com/SankyStuff) - Sanskar Tare
+- [@adnanalam931](https://github.com/adnanalam931) - Adnan Alam
 
 
 
