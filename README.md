@@ -39,8 +39,7 @@ managing short term memory load.
 
 
  - Dr. P Swarnalatha for Guidance
- - [DurgeshKr for Idea](https://github.com/DurgeshKr2242/Emoji-Detector)
- 
+ - @DurgeshKr for Idea
 
 
 ## Authors
